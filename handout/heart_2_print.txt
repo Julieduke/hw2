@@ -1,0 +1,7 @@
+[102 0/98 1]
+thalassemia = 0: [81 0/22 1]
+| chest_pain = 0: [17 0/17 1]
+| chest_pain = 1: [64 0/5 1]
+thalassemia = 1: [21 0/76 1]
+| fluoroscopy = 0: [17 0/23 1]
+| fluoroscopy = 1: [4 0/53 1]

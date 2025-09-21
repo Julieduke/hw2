@@ -1,0 +1,7 @@
+[672 0/378 1]
+Added_to_Cart = 0: [566 0/160 1]
+| Viewed_Reviews = 0: [357 0/55 1]
+| Viewed_Reviews = 1: [209 0/105 1]
+Added_to_Cart = 1: [106 0/218 1]
+| Visited_Product_Page = 0: [66 0/43 1]
+| Visited_Product_Page = 1: [40 0/175 1]
